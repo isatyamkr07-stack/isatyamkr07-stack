@@ -7,8 +7,9 @@ Email Me 👉 ✉️ **sg881723@gmail.com** For Collaboration/Project or Anythin
 - 🌱 **I’m currently learning:** Machine learnig and deep learning concepts
 - 🤔 **I’m looking for a Tech job**
 - 💬 **Ask me about:** Tech Support
-- 📫 How to reach me: sg881723@gmail.com
+- 📫 How to reach me: sg881723@gmail.com 
 - 😄 **Pronouns:** Satyam
+- **Portfolio:** https://satyam-kumar--sg881723.replit.app/
 - ⚡ **Fun fact:** I Love Devlopment & Design both(multitasker hu)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-kumar-8a07282b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sg881723@gmail.com) 
