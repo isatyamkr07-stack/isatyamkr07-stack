@@ -1,10 +1,10 @@
 #  Hi 👋, I'm Satyam Kumar
-**A passionate Ai Engineer || UI/UX Designer || python devloper**
+**A passionate Ai Engineer || UI/UX Designer || Mobile Devloper**
 
 Email Me 👉 ✉️ **sg881723@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Machine learning project
-- 🌱 **I’m currently learning:** Machine learnig and deep learning concepts
+- 🔭 **I’m currently working on:** Flutter Application
+- 🌱 **I’m currently learning:** Software concepts
 - 🤔 **I’m looking for a Tech job**
 - 💬 **Ask me about:** Tech Support
 - 📫 How to reach me: sg881723@gmail.com 
